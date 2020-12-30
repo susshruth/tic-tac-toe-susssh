@@ -1,0 +1,106 @@
+// import Board from './tictactoe_org';
+// import Button from 'react-bootstrap/Button';
+// console.log(random);
+// console.log(random);
+// console.log(random);
+  // const [ show, settohide ] = useState("hide");
+    // const warningtoggle = () => {
+  //   settohide("hide")
+  // }
+  // useEffect(() => {
+  //   const timer = setTimeout(() => {
+  //     settohide("show")
+  //     document.getElementById("play").innerText = "retry";
+  //     let href = "http://localhost:3000"
+  //     // alert('the opponent wins');
+  //   }, 6000);
+  //   return () => clearTimeout(timer); 
+  // }, []);
+        // alert("your opponent wins")
+              // alert("your opponent wins")
+
+  // if(but1==null){
+  //   document.getElementById("button5").innerText = "x";
+  // }else{console.log("HI")}
+// if(document.getElementById("button7").innerText === "x" && document.getElementById("button8").innerText === "x" && document.getElementById("button9").innerText === "x"){
+      //   // alert("your opponent wins")
+      //   document.getElementById("play").innerText = "Your opponent wins";
+      // }
+        // const p2 = () => document.getElementById("button2").innerText = "o";
+              // if(document.getElementById("button7").innerText === "x" && document.getElementById("button8").innerText === "x" && document.getElementById("button9").innerText === "x"){
+      //   // alert("your opponent wins")
+      //   document.getElementById("play").innerText = "Your opponent wins";
+      // }
+      // if(document.getElementById("button7").innerText === "x" && document.getElementById("button8").innerText === "x" && document.getElementById("button9").innerText === "x"){
+      //   // alert("your opponent wins")
+      //   document.getElementById("play").innerText = "Your opponent wins";
+      // }
+      // if(document.getElementById("button7").innerText === "x" && document.getElementById("button8").innerText === "x" && document.getElementById("button9").innerText === "x"){
+      //   // alert("your opponent wins")
+      //   document.getElementById("play").innerText = "Your opponent wins";
+      // }
+      // if(document.getElementById("button7").innerText === "x" && document.getElementById("button8").innerText === "x" && document.getElementById("button9").innerText === "x"){
+      //   // alert("your opponent wins")
+      //   document.getElementById("play").innerText = "Your opponent wins";
+      // }
+      // if(document.getElementById("button7").innerText === "x" && document.getElementById("button8").innerText === "x" && document.getElementById("button9").innerText === "x"){
+      //   // alert("your opponent wins")
+      //   document.getElementById("play").innerText = "Your opponent wins";
+      // }
+      // if(document.getElementById("button7").innerText === "x" && document.getElementById("button8").innerText === "x" && document.getElementById("button9").innerText === "x"){
+      //   // alert("your opponent wins")
+      //   document.getElementById("play").innerText = "Your opponent wins";
+      // }
+      // if(document.getElementById("button7").innerText === "x" && document.getElementById("button8").innerText === "x" && document.getElementById("button9").innerText === "x"){
+      //   // alert("your opponent wins")
+      //   document.getElementById("play").innerText = "Your opponent wins";
+      // }
+      // if(document.getElementById("button7").innerText === "x" && document.getElementById("button8").innerText === "x" && document.getElementById("button9").innerText === "x"){
+      //   // alert("your opponent wins")
+      //   document.getElementById("play").innerText = "Your opponent wins";
+      // }
+        // if(document.getElementById("button1").innerText == "o" && document.getElementById("button2").innerText == "o" && document.getElementById("button1").innerText == "o" && document.getElementById("button1").innerText == "o"){
+  //   alert("you win!!!")
+  // }else{
+  //   alert{"Keep playing"}
+  // }
+  
+  // const won = () => {alert("You won")}
+  // const lost = () => {alert("You lost")}
+
+  // const winner = () => {
+  //   // [0, 1, 2],
+  //   // [3, 4, 5],
+  //   // [6, 7, 8],
+  //   // [0, 3, 6],
+  //   // [1, 4, 7],
+  //   // [2, 5, 8],
+  //   // [0, 4, 8],
+  //   // [2, 4, 6]
+  //   if(document.getElementById("button1").innerText === "o" && document.getElementById("button2").innerText === "o" && document.getElementById("button3").innerText === "o"){
+  //     alert("You won")
+  //   }else{
+  //     alert("You lost")
+  //   }
+  // }
+  // winner()
+        {/* <div><img src="retry.png" alt="retry" style={{width: "50px", height: "50px"}}><a href="http://localhost:3000"></a></img></div> */}
+              {/* <a href="http://localhost:3000/tictactoe_org" style={{backgroundColor:"lightgray", borderColor:"black", borderWidth:"thin", borderStyle:"solid"}}> React.org </a><br></br><br></br>
+      <Router>
+          <div>
+              <Switch>
+                <Route path="/tictactoe_org" component={Board} />
+              </Switch>
+          </div>
+      </Router> */}
+      {/* <div id="timeshower"></div> */}
+      {/* <div class="modal">
+        <div class="modal_content" warn={show}>
+          <span class="close" onclick={warningtoggle}>&times;</span>
+          <p id="timeshower"></p>
+        </div>
+      </div> */}
+        // const e2 = () => {
+  //   alert("your move")
+  //   document.getElementById(random).innerText = "x"
+  // };

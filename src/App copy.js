@@ -5,7 +5,6 @@ import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 
 function App() {
   let href = ""
-  let points = 0
   const e1 = () => {
     document.getElementById(random).innerText = "x";
     document.getElementById("play").innerText = "Playing...";
@@ -14,8 +13,6 @@ function App() {
   const win = () => {
     if(document.getElementById("button1").innerText === "o" && document.getElementById("button2").innerText === "o" && document.getElementById("button3").innerText === "o"){
       document.getElementById("play").innerText = "Victory";
-      points = points + 20 + "%";
-      document.getElementById("demo").innerHTML = x;
     }
     else if(document.getElementById("button4").innerText === "o" && document.getElementById("button5").innerText === "o" && document.getElementById("button6").innerText === "o"){
       document.getElementById("play").innerText = "Victory";
@@ -194,8 +191,8 @@ function App() {
         </tr>
       </table><br></br>
         <div class="container">
-          <div class="skills js">score: {points}%</div>
-        </div><br/>
+          <div class="skills js">85%</div>
+        </div>
       <a href="http://localhost:3000" id="retry"><strong>Retry</strong></a><br></br><br></br>
       {/* style={{backgroundColor:"lightgray", borderColor:"black", borderWidth:"thin", borderStyle:"solid", padding: "2px"}} */}
       <Router>

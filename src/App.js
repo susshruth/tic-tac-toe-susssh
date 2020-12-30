@@ -194,7 +194,7 @@ function App() {
         </tr>
       </table><br></br>
         <div class="container">
-          <div class="score">score: {points}%</div>
+          <div class="score">score: {poits}%</div>
         </div><br/>
       <a href="http://localhost:3000" id="retry"><strong>Retry</strong></a><br></br><br></br>
       {/* style={{backgroundColor:"lightgray", borderColor:"black", borderWidth:"thin", borderStyle:"solid", padding: "2px"}} */}
